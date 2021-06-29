@@ -1,14 +1,14 @@
 # Table of Contents
 
-# Art & Design
+# Web Design
 # - First year art
 # - Second year art
 # - Website Redesgin
 
-# HTML / JS / JQuery / CSS 
+# Web Development
 # - First year dev
 # - Second year dev
 
-# Capstone Project
+# Unity
 # - Documentation
 # - Gallery

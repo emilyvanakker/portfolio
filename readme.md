@@ -1,7 +1,17 @@
-# My Portfolio
-This is my portfolio
+# Table of Contents
 
-## This is my Work
-One
-TWo
-Three
+# Art & Design
+
+# - First year art
+# - Second year art
+# - Website Redesgin
+
+# HTML / JS / JQuery / CSS 
+
+# - First year dev
+# - Second year dev
+
+# Capstone Project
+
+# - Documentation
+# - Gallery

@@ -16,7 +16,7 @@ I started my redesign with the navigation bar, adding white space to the logo an
 
 The content that covered the main body of the original page was location and social media information that I was able to tuck into a footer neatly. That left a lot of room to show off more of Bubby Rose’s delicious-looking food! I chose a subtle color for the background and a complementary color to highlight the products. In order to incorporate the same personality that Bubby Rose’s logo offers into the rest of the page, I used both a playful handwritten style font and a professional sans serif.
 
-Overall, I enjoyed the process of this assignment and am proud of the final product. I improved the usability of this page and brought out more of the business's unique character in this redesign.
+Overall, I enjoyed the process of this assignment and am proud of the final product. I improved the usability of this page and brought out the business's unique character in this redesign.
 
 ### Usability Heuristics 
 

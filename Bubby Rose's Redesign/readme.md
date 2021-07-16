@@ -6,7 +6,7 @@ This was a group project designed to challenge our implementation of the ten Usa
 
 ### Group Dynamics
 
-Our process started with each member sharing a couple of websites they felt we could significantly impact. Then we had a meeting to review and discuss the options that had been submitted. After nar-rowing it down to the more suited option, we began sketching layouts. Once each member had sever-al potential directions, we gave feedback on which design to develop further. Following the completion of the first iteration, we held two more critiques focussing on the contrast, repetition, alignment, and proximity in the designs. Per the assignment outline, our second iterations were the final designs.
+Our process started with each member sharing a couple of websites they felt we could significantly impact. Then we had a meeting to review and discuss the options that had been submitted. After narrowing it down to the more suited option, we began sketching layouts. Once each member had several potential directions, we gave feedback on which design to develop further. Following the completion of the first iteration, we held two more critiques focussing on the contrast, repetition, alignment, and proximity in the designs. Per the assignment outline, our second iterations were the final designs.
 
 ### My Approach
 This is one of my favorite projects to come out of the IMD program. It is the challenge of finding the potential in an existing design and strategically bringing it out. 

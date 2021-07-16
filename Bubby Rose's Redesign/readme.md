@@ -11,8 +11,11 @@ Our process started with each member sharing a couple of websites they felt we c
 ### My Approach
 This is one of my favorite projects to come out of the IMD program. It is the challenge of finding the potential in an existing design and strategically bringing it out. 
 My main focus with Bubby Rose’s landing page was giving users a place to go. The original design left users wandering, searching through nested menus. The top carousel of images was ineffective at motivating users because finding more information on these goodies was inconvenient at best.
+
 I started my redesign with the navigation bar, adding white space to the logo and page links. Additionally, I simplified the number and names of the links, added a shopping cart icon, and made a clearly visible search bar. While the carousel was ineffective, I did appreciate the imagery. I chose to alter it into a hero image with a dark overlay to make the enticing hero header pop. Beneath that, I added a bright, colorful access bar to get users started ordering online. 
+
 The content that covered the main body of the original page was location and social media information that I was able to tuck into a footer neatly. That made a lot of room to show off more of Bubby Rose’s delicious-looking food! I chose a subtle color for the background and a complementary color to highlight the products. In order to incorporate the same personality that Bubby Rose’s logo offers into the rest of the page, I used both a playful handwritten style font and a professional sans serif.
+
 Overall, I enjoyed the process of this assignment and am proud of the final product. I improved the usability of this page and brought out more of the business's unique character in this redesign.
 
 ### Usability Heuristics 

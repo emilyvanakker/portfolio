@@ -6,9 +6,9 @@ You step into a corridor, walls covered in panels, buttons, and colorful lights.
 
 ## About
 
-Space Odyssey is a virtual reality game set in space. The beginning scene places you at the far end of the space station when you suddenly hear a woman’s voice warning you about an airborne contaminant in Bay 4. Lockdown protocol has commenced, and you now only have ten minutes to complete the puzzles and evacuate the Arc.
+Space Odyssey is a virtual reality game set in space. The beginning scene places you at the far end of the space station when you suddenly hear a woman’s voice warning you about an airborne contaminant in Bay 4. Lockdown protocol has commenced, and you now only have 20 minutes to complete the puzzles and evacuate the Arc.
 
-The player must sort a sliding tile puzzle, find the code on the lightboard, and match the planets to their correct place in the universe if they hope to escape. Each puzzle offers the player a piece of equipment they need to survive outside the Arc. 
+The player must sort a sliding tile puzzle, find the code on the lightboard, and match the planets to their correct place in the solar system if they hope to escape. When a puzzle gets solved, the player is equipped with a new piece of gear needed to survive outside the Arc.
 
 We developed this project using Agile project management techniques like estimating tasks, sprint planning, and scrum meetings. As a group, we worked well together and, as such, kept clear communication and effectively hit our targets.
 

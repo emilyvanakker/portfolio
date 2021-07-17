@@ -1,5 +1,7 @@
 # Developing Camosun's IDE Festival Web App
 
+[IDE Festival]: https://ide.camosun.bc.ca/
+
 ## About
 
  In year two, my cohort designed and developed a platform to host Camosun's Interdisciplinary Education Festival. Due to the pandemic, the festival had moved online. While there was an existing WordPress site, faculty had thrown it together in a hurry for the previous year and sought improvement.
@@ -13,8 +15,6 @@ Unfortunately,  a computer science instructor was supposed to guide us through t
 Additionally, because so many different faculties were involved, we didn't receive a clear direction to move forward in. As clients do, many really neat features and add ons got brought up during our meetings, and this was our first real experience managing a client's expectations.
 
 Overall, this was a major learning curve for everyone involved in the project. Despite the obstacles, my cohort was able to pull together a functional platform that met all the critical needs of the festival. 
-
-[IDE Festival]: https://ide.camosun.bc.ca/
 
 ## My Role
 

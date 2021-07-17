@@ -1,6 +1,6 @@
 # Developing Camosun's IDE Festival Web App
 
-[IDE Festival]: https://ide.camosun.bc.ca/
+[IDE Festival](https://ide.camosun.bc.ca/)
 
 ## About
 

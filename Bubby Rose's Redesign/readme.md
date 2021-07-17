@@ -20,7 +20,7 @@ Overall, I enjoyed the process of this assignment and am proud of the final prod
 
 ### Usability Heuristics 
 
-[10 Usability Heuristics for User Interface Design]: https://www.nngroup.com/articles/ten-usability-heuristics/
+[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 * Visibility of system status
 * Match between system and the real world
 * User control and freedom
@@ -34,7 +34,7 @@ Overall, I enjoyed the process of this assignment and am proud of the final prod
 
 ### Information Architecture
 
-[The Eight Principles of Information Architecture]: https://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/
+[The Eight Principles of Information Architecture](https://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/)
 * Principle of objects 
 * Principle of choices
 * Principle of disclosure

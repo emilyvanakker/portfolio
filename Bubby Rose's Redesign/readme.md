@@ -1,14 +1,14 @@
 # Bubby Rose's Landing Page Redesign
 
-### About 
+## About 
 
 This was a group project designed to challenge our implementation of the ten Usability Heuristics and the eight principles of Information Architecture. The goal was to find a local restaurant or food establishment and redesign their landing page to include a flow for users to order online. 
 
-### Group Dynamics
+## Group Dynamics
 
 Our process started with each member sharing a couple of websites they felt we could significantly impact. Then we had a meeting to review and discuss the options that had been submitted. After narrowing it down to the more suited option, we began sketching layouts. Once each member had several potential directions, we gave feedback on which design to develop further. Following the completion of the first iteration, we held two more critiques focussing on the contrast, repetition, alignment, and proximity in the designs. Per the assignment outline, our second iterations were the final designs.
 
-### My Approach
+## My Approach
 This is one of my favorite projects to come out of the IMD program. It is the challenge of finding the potential in an existing design and strategically bringing it out. 
 My main focus with Bubby Rose’s landing page was giving users a place to go. The original design left users wandering, searching through nested menus. The top carousel of images was ineffective at motivating users because finding more information on these goodies was inconvenient at best.
 

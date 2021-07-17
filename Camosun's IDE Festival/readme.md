@@ -1,6 +1,6 @@
 # Developing Camosun's IDE Festival Web App
 
-### About
+## About
 
  In year two, my cohort designed and developed a platform to host Camosun's Interdisciplinary Education Festival. Due to the pandemic, the festival had moved online. While there was an existing WordPress site, faculty had thrown it together in a hurry for the previous year and sought improvement.
 
@@ -16,7 +16,7 @@ Overall, this was a major learning curve for everyone involved in the project. D
 
 [IDE Festival]: https://ide.camosun.bc.ca/
 
-### My Role
+## My Role
 
 From the beginning of the project, I knew I wanted to be on the front-end development team. I had previous experience from my co-op and knew I would be the most effective in helping the other front-end devs and managing the design expectations. 
 
@@ -45,6 +45,6 @@ Other contributions:
 -	Helped bug fix when data or content was not displaying correctly
 -	Tested the form and content submissions
 
-### Reflection
+## Reflection
 
 I see this project as one of my most significant challenges in development thus far. Learning how to work in a new environment, handle others' expectations, and troubleshoot remotely was a valuable experience. It taught me just how important it is to have a process for your work and a structure for how all teams communicate. The skills I gained from this project gave me the confidence to create my capstone project in the following semester.

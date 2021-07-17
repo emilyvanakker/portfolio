@@ -24,26 +24,26 @@ Up until this point, I had not worked within the React framework, only in an HTM
 
 Components I built:
 
-•	Navigation bar
-•	Header 
-•	Footer
-•	Landing page 
-•	About Us page
-•	Workshop page
+-	Navigation bar
+-	Header 
+-	Footer
+-	Landing page 
+-	About Us page
+-	Workshop page
 
 Components helped with:
 
-•	Projects page
-•	Programs page
-•	Sponsor’s page
-•	Events card
+-	Projects page
+-	Programs page
+-	Sponsor’s page
+-	Events card
 
 Other contributions:
 
-•	Participated in individual team member calls to help troubleshoot
-•	Reached out to the design team to sort out any issues with the design brief or consult on last-minute changes
-•	Helped bug fix when data or content was not displaying correctly
-•	Tested the form and content submissions
+-	Participated in individual team member calls to help troubleshoot
+-	Reached out to the design team to sort out any issues with the design brief or consult on last-minute changes
+-	Helped bug fix when data or content was not displaying correctly
+-	Tested the form and content submissions
 
 ### Reflection
 

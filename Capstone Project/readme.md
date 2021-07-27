@@ -1,7 +1,7 @@
 # Rental Connections - Capstone Project
 
 *Disclaimer: This project is currently in progress so this is a sample until I have time to write a more comprehensive description. 
-Can’t wait? I would also be happy to answer any questions you have in an interview - you can reach me at* **emily.vanakker@gmail.com.**
+Can’t wait? I am happy to answer any questions you have in an interview - you can reach me at* **emily.vanakker@gmail.com.**
 
 ## The Idea
 
